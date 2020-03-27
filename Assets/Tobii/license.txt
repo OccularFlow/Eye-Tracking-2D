@@ -1,0 +1,172 @@
+TOBII UNITY SDK LICENSE AND USE AGREEMENT
+Version 2.0
+Tobii AB (reg. No. 556613-9654), having its registered office at Karlsrovägen 2D, SE-182 53, Danderyd, Sweden ("Tobii"), grants you, the developer (“You”), a license to use the Tobii Unity SDK only according to the following terms and conditions. This agreement hereafter referred to as the “Agreement”.
+In this Agreement, the term the “Tobii Unity SDK” means the software and documentation, in binary or source code form, provided by Tobii for Unity software development utilizing eye tracking, including all included files and directories, and related documents.
+BEFORE USING THE TOBII UNITY SDK, PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCEPTING THIS AGREEMENT OR USING THE TOBII UNITY SDK YOU CONFIRM THAT:
+i) YOU HAVE READ AND UNDERSTOOD THE TERMS AND CONDITIONS BELOW,
+ii) YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT,
+iii) UNLESS SPECIFICALLY EXCLUDED BY AN EXISTING AGREEMENT BETWEEN YOU AND TOBII, THIS IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITY BETWEEN YOU AND TOBII IN RELATION TO YOUR USE AND DISTRIBUTION OF THE TOBII UNITY SDK, AND THIS AGREEMENT SUPERSEDES ALL PRIOR COMMUNICATIONS AND AGREEMENTS BETWEEN YOU AND TOBII REGARDING THE TOBII UNITY SDK.
+You may only enter into this agreement and use the Tobii Unity SDK if you are legally permitted to enter into a binding contract with Tobii.
+If you would like to discuss licensing outside the terms of this agreement, please contact Tobii on sdklicensing@tobii.com.
+1. BACKGROUND
+© Tobii AB (publ)
+2
+1.1 Tobii is a supplier of hardware and software solutions for eye tracking, and
+the Tobii Unity SDK contains software covered by intellectual property rights
+owned by Tobii.
+1.2 You are provided limited rights to use the Tobii Unity SDK subject to the
+restrictions outlined in this Agreement
+.
+2. LICENSE
+2.1 Subject to Section 2.2 and Section 6, You are hereby granted a limited, nonexclusive,
+non-transferable, revocable, license to:
+i) use the Tobii Unity SDK to develop executable software applications for use
+with computing devices (“Your Software”), and
+ii) any intellectual property rights owned by Tobii covering binary files or
+example source code in the Tobii Unity SDK, and
+iii) distribute any binary files in the Tobii Unity SDK, or the binary form of
+example source code in the Tobii Unity SDK, as part of Your Software.
+2.2 The license rights in this Section 2 are conditional upon the following:
+i) Your Software may only utilize Eye Tracking Data delivered via an
+Application Programming Interface (“API”) of the Tobii Unity SDK. “Eye
+Tracking Data” is eye gaze or pupil data, in raw or processed form, on its
+own or in combination with other information.
+ii) You may only develop Your Software for Interaction Use. “Interaction Use”
+is the use of Eye Tracking Data as a user input for interactive experiences in
+games or other software.
+iii) Unless you have obtained separately the appropriate licens from Tobii, Your
+Software may not implement functionality for Analytical Use. “Analytical
+Use” is defined as storing Eye Tracking Data or transferring Eye Tracking
+Data to another computing device or network, for any purpose other than
+solely as part of your personal Interaction Use. Examples of Analytical Use
+include behavior research, advertisement testing, usability testing,
+streaming of gaze data and health assessments.
+iv) Your Software may not expose an API which exposes Eye Tracking Data.
+© Tobii AB (publ)
+3
+3. OWNERSHIP AND EXCLUDED LICENSE
+3.1 Except for the licenses explicitly granted to You, Tobii retains all right, title,
+and interest in and to the Tobii Unity SDK, including all updates and
+modifications thereto and derivative works created therefrom, whether or
+not specifically recognized, registered, or perfected under the laws of the
+country in which the Tobii Unity SDK is located. You do not own the
+copyright or any other intellectual property rights in the Tobii Unity SDK.
+Your rights to use the Tobii Unity SDK are strictly as specified in this
+Agreement.
+4. USAGE DATA TO ENHANCE USER EXPERIENCE
+4.1 the Tobii Unity SDK may report anonymous usage statistics and/or error and
+bug reports to Tobii's servers to identify any problem that may affect the
+technical stability and/or overall quality of the application, as well as which
+of the program components have been in use. For the avoidance of doubt,
+this data does not include Eye Tracking Data.
+4.2 By accepting this Agreement you consent to Tobii’s processing of your usage
+data in accordance with the above.
+5. SUPPORT
+5.1 Tobii is not obliged to support You regarding the use of the Tobii Unity SDK
+unless a separate agreement between you and Tobii has been entered into.
+6. NO HIGH RISK OR MEDICAL USE
+6.1 the Tobii Unity SDK is not fault-tolerant. Accordingly, the Tobii Unity SDK is
+not designed or intended for use in any environment where failure or fault
+of any kind could lead to death or serious bodily injury of any person, or to
+severe physical or environmental damage (“High Risk Use”), nor is it
+designed or certified for medical classified environments (“Medical Classified
+Use”). Accordingly, any High Risk Use of the Tobii Unity SDK is strictly
+prohibited. High Risk Use includes, for example, aircraft navigation and
+control of other modes of human mass transportation, military applications
+and control of nuclear or chemical facilities, as well as medical, surgical, or
+© Tobii AB (publ)
+4
+other use intended to support or sustain life. Any use in violation of the
+foregoing is entirely at your own risk and anyone, including you, that violates
+the foregoing prohibition will be solely responsible for any and all loss,
+liability or damages resulting therefrom and Tobii disclaims any such
+responsibility therefor. Furthermore, the Tobii Unity SDK is neither designed
+nor certified for medical classified environments (“Medical Classified Use”).
+Any High Risk Use or Medical Classified Use of the Tobii Unity SDK is strictly
+prohibited by this Agreement. Any such use is entirely at your own risk and
+anyone, including You, that violates the foregoing prohibition will be solely
+responsible for any and all loss, liability or damages resulting therefrom and
+Tobii disclaims any such responsibility therefor. The Tobii Unity SDK is
+prohibited from being used for Medical Classified Use and Tobii disclaims
+any liability related to such use.
+7. LIMITATION OF LIABILITY; INDEMNIFICATION
+7.1 In no event will Tobii be liable for the following, regardless of the theory of
+liability or whether arising out of the use of or inability to use the Tobii Unity
+SDK or for any other reason, even if it has been advised of the possibility of
+such damages: (a) indirect, incidental, special or consequential damages; (b)
+loss or corruption of data or interrupted or loss of business; or (c) loss of
+revenue, profits, goodwill or anticipated sales or savings. All liability of Tobii,
+its affiliates, officers, directors, employees, agents and suppliers collectively,
+to you, whether based in warranty, contract, tort (including negligence), or
+otherwise, and your exclusive remedy, shall be, the lesser of, return of the
+fees paid for the Tobii Unity SDK, or USD 200.
+7.2 You agree to indemnify, defend and hold harmless Tobii and its licensors,
+affiliates, contractors, officers, directors, employees or agents from any and
+all third party claims, liabilities, costs and expenses, including reasonable
+attorney fees and punitive damages arising from your violation of any
+provision of Section 1 of this Agreement.
+8. TERM
+8.1 This Agreement may be terminated by You, or Tobii, by providing six (6)
+months written notice.
+© Tobii AB (publ)
+5
+8.2 If You materially breach this Agreement, or are declared bankrupt, placed
+into receivership, liquidiation or similar mechanism, this Agreement
+terminates automatically without notice.
+8.3 Upon termination, all obligations relating to the ownership of the Tobii Unity
+SDK and any indemnification or liability obligations survive.
+8.4 Upon termination, all rights and licenses granted in this Agreement shall
+immediately and automatically terminate.
+9. MISCELLANEOUS
+9.1 If you are an individual, the license granted in this Agreement is for your
+benefit only. If you represent a company or other legal entity, the license
+granted in this Agreement is for the benefit only of that company's or legal
+entity’s employees and authorized agents. Any person who does not have
+the benefit of this license in accordance with this Agreement is not permitted
+to use the Tobii Unity SDK.
+9.2 You may not (a) disassemble, decompile, or reverse engineer any parts of
+the Tobii Unity SDK by any means; (b) permit or assist any party to derive or
+attempt to derive the source code of, disassemble, decrypt, decompile or
+reverse engineer the Tobii Unity SDK, or (c) take any other steps in order to
+derive design information regarding the Tobii Unity SDK, in each case except
+to the extent required under compulsory law; provided, however, that in any
+such event you shall provide Tobii with detailed information regarding the
+activity.
+9.3 EXCEPT AS SPECIFICALLY PROVIDED HEREIN TOBII MAKES NO WARRANTY,
+EITHER EXPRESS OR IMPLIED, RELATING TO the Tobii Unity SDK, AND TOBII
+FURTHER EXPRESSLY DISCLAIMS, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW, ALL WARRANTIES AND CONDITIONS OF ANY KIND
+RELATED THERETO, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO ANY IMPLIED WARRANTIES AND CONDITIONS OF
+MERCHANTABILITY, ACCURACY, OR FITNESS FOR A PARTICULAR PURPOSE.
+9.4 If you acquired the Tobii Unity SDK in a country or territory listed below, as
+determined by reference to the address on your purchase order or similar,
+this table identifies the law that governs this Agreement (notwithstanding
+© Tobii AB (publ)
+6
+any conflict of laws provision) and the specific courts that have exclusive
+jurisdiction over any claim arising under this Agreement.
+Country or Territory Governing Law Jurisdiction and Venue
+United States, Latin State of Pennsylvania, American Arbitration Association,
+America or the Caribbean United States of in accordance with its rules;
+America Allegheny County, Pennsylvania
+Canada Province of Ontario, Courts of the Province of Ontario,
+Canada Canada
+People’s Republic of People’s Republic of Hong Kong International Arbitration
+China China Centre
+Europe (excluding Nordic Laws of England London Court of Arbitration, in
+Region), Middle East, accordance with its rules
+Africa, Asia or Oceania
+Nordic Region (Sweden, Laws of Sweden
+Arbitration Institute of the
+Stockholm
+Norway, Denmark, Chamber of Commerce, in
+Finland and Iceland) accordance with its rules
+All other countries or State of Pennsylvania American Arbitration Association,
+territories in accordance with its rules;
+Allegheny County, Pennsylvania
+9.5 The parties specifically disclaim the application of the UN Convention on
+Contracts for the International Sale of Goods. Regardless of the above
+governing law, either party may seek interim injunctive relief in any court of
+appropriate jurisdiction with respect to any alleged breach of such party's
+intellectual property or proprietary rights.
