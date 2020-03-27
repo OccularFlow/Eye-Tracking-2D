@@ -1,5 +1,7 @@
 Eye Tracking 2D
 
+You can either copy the folder Assets/Assets/Scripts to your own project or download this folder and open it in Unity.
+
 This asset requires the 'Tobii Eye Tracking SDK' asset and relevant eye tracking hardware.
 
 The example scene shows a square that will change colours when gazing at it.
